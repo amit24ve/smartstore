@@ -1,2 +1,2 @@
 <h1 align="center"> Smart Store Outlook</h1>
-![img1](https://github.com/user-attachments/assets/3f735e2f-23d7-4ec0-a785-c1d6ed24cab1)
+![img1](https://github.com/user-attachments/assets/b42269f3-2d36-4857-90ee-7360bd8e5927)
